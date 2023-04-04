@@ -1,0 +1,11 @@
+{
+  "name": "templatemo_524_product_admin",
+  "version": "1.0.0",
+  "description": "C",
+  "main": "C",
+  "scripts": {
+    "test": "^C"
+  },
+  "author": "",
+  "license": "ISC"
+}
